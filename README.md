@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://raw.githubusercontent.com/alexMercer94/react-todoist-app/master/TodoIst-React.JPG)
 
 ## Available Scripts
 
